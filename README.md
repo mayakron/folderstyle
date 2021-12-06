@@ -29,7 +29,7 @@ Profiles can be saved to file and later imported, which means that you can creat
 
 ## Download
 
-The latest and all other versions of CHReader can be downloaded from [here](https://github.com/mayakron/folderstyle/releases).
+The latest and all other versions of FolderStyle can be downloaded from [here](https://github.com/mayakron/folderstyle/releases).
 
 ## Installation
 
