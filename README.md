@@ -33,7 +33,7 @@ All versions of FolderStyle can be downloaded from [here](https://github.com/may
 
 ## Installation
 
-FolderStyle is available in portable format only, you just need to extract the archive to a directory of your choice and run the FolderStyle.exe file.
+FolderStyle is a portable application: just expand the archive to a directory of your choice and run the FolderStyle.exe file.
 
 ## License
 
