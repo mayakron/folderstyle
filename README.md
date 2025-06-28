@@ -7,8 +7,8 @@
 <h4 align="center">
   <a href="#features">Features</a>&nbsp;|&nbsp;
   <a href="#download">Download</a>&nbsp;|&nbsp;
-  <a href="#download">Installation</a>&nbsp;|&nbsp;
-  <a href="#credits">License</a>
+  <a href="#installation">Installation</a>&nbsp;|&nbsp;
+  <a href="#license">License</a>
 </h4>
 
 <h4 align="center">
@@ -29,11 +29,11 @@ Profiles can be saved to file and later imported, which means that you can creat
 
 ## Download
 
-The latest and all other versions of FolderStyle can be downloaded from [here](https://github.com/mayakron/folderstyle/releases).
+All versions of FolderStyle can be downloaded from [here](https://github.com/mayakron/folderstyle/releases).
 
 ## Installation
 
-For the time being FolderStyle is available in portable format only, therefore to install it you just need to expand its archive to a directory of your choice and run the FolderStyle.exe file. To uninstall FolderStyle it is enough to delete that directory.
+FolderStyle is available in portable format only, you just need to extract the archive to a directory of your choice and run the FolderStyle.exe file.
 
 ## License
 
